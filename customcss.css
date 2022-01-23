@@ -1,0 +1,53 @@
+a,
+.items_list li .price {
+color: #D40028;
+}
+
+.items_list li a {
+  color:#000;
+}
+
+#zwgth h1,
+#address_conf h2,
+#cart h5,
+.mheader h3,
+.restaurant_selection #resto h2 {
+color:#D40028;
+}
+
+.btn-primary,
+.btn-primary.disabled,
+.btn-primary[disabled],
+.btn-primary[disabled]:hover,
+.btn-primary.disabled:focus,
+.btn-primary[disabled]:focus,
+.btn-primary.disabled:active,
+.btn-primary[disabled]:active  {
+    background-color: #D40028;
+    border-color: #D40028;
+}
+
+.btn-primary:active,
+.btn-primary:active:focus,
+.btn-primary:active:hover,
+.btn-primary:focus,
+.btn-primary:hover {
+    background-color: #4a0507;
+    border-color: #4a0507;
+}
+#cart a, #cart a:focus, #cart a:hover {
+    color: #ffffff;
+}
+
+.restaurant_selection .restaurants .active a,
+.restaurant_selection .restaurants a:hover,
+.restaurant_selection .restaurants a,
+#zmodal .modal-header,
+#cart #cart-toggle-btn .cart_nb_items,
+.tag_list,
+.tag_list a.nobg:hover .lab,
+.tag_list .active a.nobg .lab,
+#zmodal .part h4,
+#zmodal .optionbox h4 {
+background-color: #D40028;
+}
